@@ -95,7 +95,7 @@ Learning      eJPT · TryHackMe · HackTheBox
 
 <div align="center">
 
-*Inspired by Shinmon Benimaru — built on my own terms.*
+
 
 `@WakasaRyujiro`
 
