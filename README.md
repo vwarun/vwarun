@@ -17,7 +17,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-wakaa-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-wilfred/)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-wakaa-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/wakaa)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-wakaa-00FF88?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/wakaa)
 
 </div>
 
