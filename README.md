@@ -9,7 +9,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝  ╚═╝
 ```
 
-### `@WakasaRyujiro` · Varun Wilfred
+### `@wakaa` · Varun Wilfred
 
 **B.Tech CSE @ SNGCE, KTU** &nbsp;|&nbsp; **Cybersecurity & Ethical Hacking**
 
@@ -26,7 +26,8 @@
 ## $ whoami
 
 ```bash
-> name        : Varun Wilfred (@WakasaRyujiro)
+> name        : Varun Wilfred
+> alias       : @WakasaRyujiro
 > role        : Cybersecurity Student | Ethical Hacking Enthusiast
 > location    : Kerala, India
 > education   : B.Tech CSE — SNGCE, KTU
@@ -97,6 +98,6 @@ Learning      eJPT · TryHackMe · HackTheBox
 
 
 
-`@WakasaRyujiro`
+`@wakaa`
 
 </div>
