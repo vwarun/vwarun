@@ -10,9 +10,7 @@
 ```
 
 ### `@wakaa` · Varun Wilfred
-
 **B.Tech CSE @ SNGCE, KTU** &nbsp;|&nbsp; **Cybersecurity & Ethical Hacking**
-
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-wakaa-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-wilfred/)
@@ -32,12 +30,21 @@
 > education   : B.Tech CSE — SNGCE, KTU
 > experience  : Security Intern @ NEST Aluva, Kerala
 > focus       : Penetration Testing · Network Security · Cloud Security
-> currently   : Studying for eJPT | Completing Google Cybersecurity Certificate
+> currently   : Studying for eJPT | 
 ```
 
 ---
 
 ## ⚔️ Projects
+
+### 🛡️ [Wazuh SOC Home Lab](https://github.com/vwarun/Wazuh-SOC-Lab)
+> Full-stack SOC home lab built with open-source security tools
+
+Wazuh SIEM/XDR · pfSense Firewall · Suricata IDS · VirusTotal Integration · SSH Brute Force Detection · File Integrity Monitoring · Windows Event Log Analysis
+
+`Wazuh` `pfSense` `Suricata` `VirusTotal` `Kali Linux` `Ubuntu` `Blue Team`
+
+---
 
 ### 🔍 [NetRecon](https://github.com/vwarun/NetRecon)
 > Python-based network reconnaissance toolkit
@@ -73,9 +80,9 @@ Live threat visualization · Attack simulation · Log analysis · Security event
 
 ```
 Languages     Python · Bash · SQL
-Security      Nmap · Wireshark · Metasploit · Burp Suite
-Concepts      Network Recon · Penetration Testing · Cloud Security · OSINT
-Tools         Linux · Git · Streamlit · customtkinter
+Security      Nmap · Wireshark · Metasploit · Burp Suite · Wazuh · Suricata
+Concepts      Network Recon · Penetration Testing · Cloud Security · OSINT · SIEM · IDS
+Tools         Linux · Git · Streamlit · customtkinter · pfSense
 Learning      eJPT · TryHackMe · HackTheBox
 ```
 
@@ -86,7 +93,6 @@ Learning      eJPT · TryHackMe · HackTheBox
 <div align="center">
 
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vwarun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05c5c&icon_color=e05c5c)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vwarun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05c5c)
 
 </div>
@@ -94,8 +100,6 @@ Learning      eJPT · TryHackMe · HackTheBox
 ---
 
 <div align="center">
-
-
 
 `@wakaa`
 
