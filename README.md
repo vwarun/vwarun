@@ -55,16 +55,6 @@ Port scanning · Banner grabbing · Service detection · DNS lookup · SHA-256 f
 
 ---
 
-### ☁️ [Cloud Security Monitor](https://github.com/vwarun/cloud-security-monitor)
-> Real-time cloud security monitoring dashboard
-
-Live threat visualization · Attack simulation · Log analysis · Security event tracking
-
-**🌐 [Live Demo](https://cloud-security-monitor-waka.streamlit.app)**
-
-`Python` `Streamlit` `Cloud Security` `Data Visualization`
-
----
 
 ## 📜 Certifications
 
@@ -81,7 +71,7 @@ Live threat visualization · Attack simulation · Log analysis · Security event
 ```
 Languages     Python · Bash · SQL
 Security      Nmap · Wireshark · Metasploit · Burp Suite · Wazuh · Suricata
-Concepts      Network Recon · Penetration Testing · Cloud Security · OSINT · SIEM · IDS
+Concepts      Network Recon · Penetration Testing  · OSINT · SIEM · IDS
 Tools         Linux · Git · Streamlit · customtkinter · pfSense
 Learning      eJPT · TryHackMe · HackTheBox
 ```
