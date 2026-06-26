@@ -25,12 +25,12 @@
 ```bash
 > name        : Varun Wilfred
 > alias       : @wakaa
-> role        : Cybersecurity Student | Ethical Hacking Enthusiast
+> role        : Cybersecurity | SOC Analytics | OSINT 
 > location    : Kerala, India
 > education   : B.Tech CSE — SNGCE, KTU
 > experience  : Security Intern @ NEST Aluva, Kerala
-> focus       : Penetration Testing · Network Security · Cloud Security
-> currently   : Studying for eJPT | 
+> focus       : Penetration Testing · Network Security · SOC · OSINT
+> currently   : Studying for eJPT | BSCP
 ```
 
 ---
