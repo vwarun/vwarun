@@ -13,7 +13,6 @@
 
 **B.Tech CSE @ SNGCE, KTU** &nbsp;|&nbsp; **Cybersecurity & Ethical Hacking**
 
-*"The strongest don't wait for permission."*
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-wakaa-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Wilfred-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-wilfred/)
@@ -27,7 +26,7 @@
 
 ```bash
 > name        : Varun Wilfred
-> alias       : @WakasaRyujiro
+> alias       : @wakaa
 > role        : Cybersecurity Student | Ethical Hacking Enthusiast
 > location    : Kerala, India
 > education   : B.Tech CSE — SNGCE, KTU
