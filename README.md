@@ -38,7 +38,7 @@
 ## ⚔️ Projects
 
 
-### 🍯 Honeypot Threat Analysis Lab](https://github.com/vwarun/Honeypot-Threat-Analysis-Lab)
+### 🍯 [Honeypot Threat Analysis Lab](https://github.com/vwarun/Honeypot-Threat-Analysis-Lab)
 > Full-stack SOC home lab built with open-source security tools
 
 A hands-on cybersecurity homelab deploying T-Pot to attract, capture, and analyze real attack traffic — covering honeypot setup, attack simulation and threat analysis
